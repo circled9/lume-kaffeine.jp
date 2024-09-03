@@ -1,8 +1,8 @@
 layout: layouts/base.vto
 header:
-  title: Lume Land
-  description: I make static websites.
-  avatar: /avatar.jpg
+  title: kaffeine.jp
+  description: キーボード大好き
+  avatar: /avatar.png
 metas:
   title: =header.title
   description: =header.description
@@ -10,23 +10,28 @@ metas:
   generator: true
   twitter: ''
 links:
-  - text: Website
-    href: 'https://lume.land'
-    type: ''
+  - type: bluesky
+    text: Bluesky
+    href: 'https://bsky.app/profile/kaffeine.jp'
+  - type: x
+    text: Twitter
+    href: 'https://x.com/circled9'
   - type: mastodon
-    text: '@lume@fosstodon.org'
-    href: 'https://fosstodon.org/@lume'
+    text: Mastodon
+    href: 'https://fedibird.com/@circled9'
+  - text: しずかなインターネット
+    href: 'https://sizu.me/circled9'
+  - type: zenn
+    text: Zenn
+    href: 'https://zenn.dev/mm'
+  - type: qiita
+    text: Qiita
+    href: 'https://qiita.com/circled9'
   - type: github
     text: GitHub
-    href: 'https://github.com/lumeland/'
-  - type: spotify
-    text: Spotify
-    href: 'https://open.spotify.com/user/oscarotero'
-  - type: discord
-    text: Discord
-    href: 'https://discord.gg/YbTmpACHWB'
-  - type: opencollective
-    text: Open Collective
-    href: 'https://opencollective.com/lume'
+    href: 'https://github.com/circled9/'
+  - type: wantedly
+    text: Wantedly
+    href: 'https://sg.wantedly.com/id/masashi_matsui/'
 footer: "Powered by [Lume](https://lume.land) & [SimpleMe](https://github.com/lumeland/theme-simple-me) theme"
 extra_head: ''
