@@ -518,7 +518,7 @@
     }
   },
   "remote": {
-    "https://colorjs.io/dist/color.js": "3d66716a9c648a7c2869b0d247318d894020e94c31e2b6dde7ff187684a2d8b2",
+    "https://colorjs.io/dist/color.js": "9e47cec3699dd25e862b024f65af8bf53841d5a1fa8667a3d6416f04d9b45661",
     "https://deno.land/std@0.170.0/_util/asserts.ts": "d0844e9b62510f89ce1f9878b046f6a57bf88f208a10304aab50efcb48365272",
     "https://deno.land/std@0.170.0/_util/os.ts": "8a33345f74990e627b9dfe2de9b040004b08ea5146c7c9e8fe9a29070d193934",
     "https://deno.land/std@0.170.0/encoding/base64.ts": "8605e018e49211efc767686f6f687827d7f5fd5217163e981d8d693105640d7a",
